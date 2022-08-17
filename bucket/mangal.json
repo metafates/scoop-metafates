@@ -1,19 +1,19 @@
 {
-    "version": "3.2.1",
+    "version": "3.3.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/metafates/mangal/releases/download/v3.2.1/mangal_3.2.1_Windows_i386.tar.gz",
+            "url": "https://github.com/metafates/mangal/releases/download/v3.3.0/mangal_3.3.0_Windows_i386.tar.gz",
             "bin": [
                 "mangal.exe"
             ],
-            "hash": "426208d44e1735252cba1de01aebd84c379f7325f9c283a504b6b767b3b32ffa"
+            "hash": "c53ab78a241b8df9d2d268fa9ddde91707d45ac9eab55618b06e2e5d894d86de"
         },
         "64bit": {
-            "url": "https://github.com/metafates/mangal/releases/download/v3.2.1/mangal_3.2.1_Windows_x86_64.tar.gz",
+            "url": "https://github.com/metafates/mangal/releases/download/v3.3.0/mangal_3.3.0_Windows_x86_64.tar.gz",
             "bin": [
                 "mangal.exe"
             ],
-            "hash": "8685864fbb3f60a4f7ebe4a64f665d740c039deb51d840d208a29e78c45a2ae4"
+            "hash": "40ca38b10c7651f9820fb7712fe5441626d1619c96e34dc0b0c6a3d721bd6af7"
         }
     },
     "homepage": "https://github.com/metafates/mangal",
